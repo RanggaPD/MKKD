@@ -43,7 +43,7 @@
     }
     
     .menu-icon {
-      display: none;
+      display: block;
     }
     
     .top-wrapper h1 {
